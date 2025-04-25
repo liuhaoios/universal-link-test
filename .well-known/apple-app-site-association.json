@@ -1,0 +1,11 @@
+{
+    "applinks": {
+      "apps": [],
+      "details": [
+        {
+          "appID": "JKNET.com.heartrate.oxygen.bloodpressure.sugar.health", 
+          "paths": ["*"] 
+        }
+      ]
+    }
+  }
